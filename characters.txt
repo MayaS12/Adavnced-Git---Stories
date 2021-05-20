@@ -5,3 +5,5 @@ Characters:
 - Crocodile's Wife
 - Leopard
 - Dog
+- Cat
+- Mouse
